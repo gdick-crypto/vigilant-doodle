@@ -9,3 +9,9 @@ export const App = () => (
     <Info/>
   </div>
 );
+
+const tasks = [
+  {_id: 1, text: 'Stretching'},
+  {_id: 2, text: 'Pick up the Bike'},
+  {_id: 3, text: 'Ride!'},
+];
